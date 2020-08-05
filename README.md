@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Technologies:
+* React
+* AJAX
+
+USAGE:  
+git clone "https://github.com/doragrishaeva/ravenous.git"  
+cd ravenous  
+start index.html  
+
 ## Available Scripts
 
 In the project directory, you can run:
